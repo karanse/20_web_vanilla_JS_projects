@@ -1,5 +1,6 @@
 # The learning goals of this project
 
-- Practice createing if conditions to check specific requirements- passowrd length, email validity, etc.
-- Practice refactoring the code (if conditionals ) and creating functions
-- Practice designing a registration form & styling it with CSS
+- Practice designing a registration form with HTML & styling it with CSS
+- Practice creating if conditions to check specific requirements meets the acceptance criteria- passowrd length, email validity, etc.
+- Practice refactoring the code (if conditionals ) and creating reusable functions
+- Practice clean & readable coding
