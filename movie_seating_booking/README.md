@@ -1,0 +1,3 @@
+# The learning goals of this project
+
+-...
